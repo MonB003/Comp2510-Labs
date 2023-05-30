@@ -63,8 +63,8 @@
 ## <a id="how-to-run-project">How to run the project</a>
 ### Prerequisites:
 - Have a Git and GitHub account
-- Have CLion or another coding editor
-- Have Cygwin64 Terminal
+- Have [CLion](https://www.jetbrains.com/clion/download/#section=windows) or another coding editor
+- Have [Cygwin64 Terminal](http://www.cygwin.com/)
 
 ### Configuration instructions:
 
